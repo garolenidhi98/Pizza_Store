@@ -7,11 +7,11 @@ to making the order ready.
 
 ## 🧑‍💻Screenshots
 
-<img src="pizza-store-main\Screenshot_Images\Image1.png" width="500px">
+<img src="C:\Users\user\Downloads\pizza-store\pizza-store-main\Screenshot_Images\Image1.png" width="500px">
 <hr/>
-<img src="pizza-store-main\Screenshot_Images\Image2.png" width="500px">
+<img src="C:\Users\user\Downloads\pizza-store\pizza-store-main\Screenshot_Images\Image2.png" width="500px">
 <hr/>
-<img src="pizza-store-main\Screenshot_Images\Image3.png" width="500px">
+<img src="C:\Users\user\Downloads\pizza-store\pizza-store-main\Screenshot_Images\Image3.png" width="500px">
 
 ## 🛠️Technologies Used
 
